@@ -1,0 +1,19 @@
+.footer {
+    background-color: var(--dark-blue);
+    color: #fff;
+    font-size: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8rem;
+
+    position: fixed;
+    padding: 10px 10px 0px 10px;
+    bottom: 0;
+    width: 100%;
+    /* Height of the footer*/
+    height: 40px;
+    p {
+      color: #fff;
+    }
+  }
